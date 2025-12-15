@@ -1,0 +1,4 @@
+Welcome to the code for our final product: a hybrid model that will predict whether the patient will be in a hyper or hypo state during the night.
+
+To run this script: All files should be downloaded and kept in the same folder-subfolder structure as here, where you run the 'main.py' script and it will produce results.
+Edit the filepaths to your personal filepaths as indicated in the main.py file, and run the script.
