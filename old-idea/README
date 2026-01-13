@@ -1,4 +1,4 @@
 Welcome to the code for our old idea: a hybrid model that will predict nocturnal glucose levels.
 
-To run this script: All files should be downloaded and kept in the same folder-subfolder structure as here, where you run the 'main.py' script and it will produce results.
-Edit the filepaths to your personal filepaths as indicated in the main.py file, and run the script.
+To run this script: All files should be downloaded. It is expected that you already possess the datafiles for OhioT1DM in the same filepath, but in a different folder (so you have a folder called old_model_code and a folder called data). 
+_run_analysis.py_ is the only file you will have to run, but before that, you have to edit the filepaths at the bottom of the script to your personal filepaths (for data and results directories).
