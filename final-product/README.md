@@ -46,7 +46,7 @@ Evening Data Collection → Digital Twin Simulation → Risk Prediction → Prev
 
 ### Expected data 
 
-The data is expected to come from the OhioT1DM dataset, split into 2 different folders within the data folder: one for training and one for testing. for training it assumes {train_dir}/{patient_id}-ws-training.xml and for testing it assumes {test_dir}/{patient_id}-ws-testing.xml. run_analysis is the only file you have to run, after having followed the instructions in the comments at the bottom of the file.
+The data is expected to come from the OhioT1DM dataset, split into 2 different folders within the data folder: one for training and one for testing. for training it assumes {train_dir}/{patient_id}-ws-training.xml and for testing it assumes {test_dir}/{patient_id}-ws-testing.xml. _run_analysis_ is the only file you have to run, after having followed the instructions in the comments at the bottom of the file.
 
 
 ## Contact
